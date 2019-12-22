@@ -7,4 +7,5 @@ This is node private chatroom tutorial.
 
  2. then node app.js
  
-ref: must delete package.json-lock
+ref: must delete package-lock.json
+
